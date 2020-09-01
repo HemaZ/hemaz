@@ -18,6 +18,9 @@
 - [Hello AirSim’s World](https://medium.com/yonohub/hello-airsims-world-866a3c29db41?source=rss-46833f23c049------2)
 - [Create ROS2-Based YonoArc Block](https://medium.com/yonohub/create-ros2-based-yonoarc-block-b0671e25fb71?source=rss-46833f23c049------2)
 - [Boost System Verification and Validation through ROS and CarMaker on the Cloud](https://medium.com/yonohub/boost-system-verification-and-validation-through-ros-and-carmaker-on-the-cloud-131ff6fa611e?source=rss-46833f23c049------2)
+- [Taking CarMaker to the Cloud: Virtual test driving in Yonohub](https://medium.com/yonohub/taking-carmaker-to-the-cloud-virtual-test-driving-in-yonoarc-b96538acc5ab?source=rss-46833f23c049------2)
+- [Deep learning for Embedded Linux Series: Part 1 — Model Optimization](https://medium.com/yonohub/deep-learning-for-embedded-linux-series-part-1-model-optimization-daa553a5979?source=rss-46833f23c049------2)
+- [Yonohub: Autonomous Vehicles Using Blocks](https://towardsdatascience.com/yonohub-autonomous-vehicles-using-blocks-ef4a1838d92c?source=rss-46833f23c049------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="120" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>

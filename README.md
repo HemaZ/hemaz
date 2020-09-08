@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gazebo simulations In YonoArc](https://medium.com/yonohub/gazebo-simulations-in-yonoarc-53ec700f7b87?source=rss-46833f23c049------2)
 - [Autoware.auto with easiness on Yonohub](https://medium.com/yonohub/autoware-auto-with-easiness-on-yonohub-5e81d4612d06?source=rss-46833f23c049------2)
 - [Deep learning on the edge series: Part 2 — Deploying on Raspberry Pi 4](https://medium.com/yonohub/deep-learning-on-the-edge-series-part-2-deploying-on-raspberry-pi-4-48ddda0a2932?source=rss-46833f23c049------2)
 - [Hello AirSim’s World](https://medium.com/yonohub/hello-airsims-world-866a3c29db41?source=rss-46833f23c049------2)
